@@ -1,0 +1,22 @@
+PODS:
+  - altbeacon (0.0.1):
+    - Flutter
+  - Flutter (1.0.0)
+
+DEPENDENCIES:
+  - altbeacon (from `.symlinks/plugins/altbeacon/ios`)
+  - Flutter (from `Flutter`)
+
+EXTERNAL SOURCES:
+  altbeacon:
+    :path: ".symlinks/plugins/altbeacon/ios"
+  Flutter:
+    :path: Flutter
+
+SPEC CHECKSUMS:
+  altbeacon: 0a8bfe1c43b0fb63e91b3a87773f4d0ce2f4967c
+  Flutter: 0e3d915762c693b495b44d77113d4970485de6ec
+
+PODFILE CHECKSUM: c34e2287a9ccaa606aeceab922830efb9a6ff69a
+
+COCOAPODS: 1.9.1
